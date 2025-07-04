@@ -2,8 +2,18 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - box
+  - sphere
+  - moving
+  - enemy
+  - friend
+  - device
+  - inventory
+  - vehicle
+  - SurfaceToClimb
+  - SurfaceToGrab
   layers:
   - Default
   - TransparentFX
@@ -14,25 +24,25 @@ TagManager:
   - 
   - 
   - 
+  - gravityObjects
+  - Armor Surface
+  - turrets
+  - player
+  - radar
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Scanner
+  - vehicle
+  - inventory
+  - npc
+  - weapons
+  - device
+  - Terrain
+  - Point&Click
+  - Dynamic Split Screen
+  - Transparent Mesh
+  - Ragdoll Trigger
   - 
   - 
   - 
@@ -43,34 +53,3 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
-  - Light Layer 1
-  - Light Layer 2
-  - Light Layer 3
-  - Light Layer 4
-  - Light Layer 5
-  - Light Layer 6
-  - Light Layer 7
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
